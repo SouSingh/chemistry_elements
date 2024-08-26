@@ -1,0 +1,1536 @@
+[
+    {
+        "input": "Hydrogen",
+        "output": [
+            "Symbol: H",
+            "Atomic_Number: 1",
+            "Atomic_Weight: 1.00794",
+            "Density: 0.0899",
+            "Melting_Point: 14.01",
+            "Boiling_Point: 20.28",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 14.01"
+        ]
+    },
+    {
+        "input": "Helium",
+        "output": [
+            "Symbol: He",
+            "Atomic_Number: 2",
+            "Atomic_Weight: 4.002602",
+            "Density: 0.1785",
+            "Melting_Point: ",
+            "Boiling_Point: 4.21999999999997",
+            "Phase: Gas",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Lithium",
+        "output": [
+            "Symbol: Li",
+            "Atomic_Number: 3",
+            "Atomic_Weight: 6.941",
+            "Density: 535",
+            "Melting_Point: 453.69",
+            "Boiling_Point: 1615.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 453.69"
+        ]
+    },
+    {
+        "input": "Beryllium",
+        "output": [
+            "Symbol: Be",
+            "Atomic_Number: 4",
+            "Atomic_Weight: 9.012182",
+            "Density: 1848",
+            "Melting_Point: 1560.15",
+            "Boiling_Point: 2743.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1560"
+        ]
+    },
+    {
+        "input": "Boron",
+        "output": [
+            "Symbol: B",
+            "Atomic_Number: 5",
+            "Atomic_Weight: 10.811",
+            "Density: 2460",
+            "Melting_Point: 2348.15",
+            "Boiling_Point: 4273.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2348"
+        ]
+    },
+    {
+        "input": "Carbon",
+        "output": [
+            "Symbol: C",
+            "Atomic_Number: 6",
+            "Atomic_Weight: 12.0107",
+            "Density: 2260",
+            "Melting_Point: 3823.15",
+            "Boiling_Point: 4300.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 3823"
+        ]
+    },
+    {
+        "input": "Nitrogen",
+        "output": [
+            "Symbol: N",
+            "Atomic_Number: 7",
+            "Atomic_Weight: 14.0067",
+            "Density: 1.251",
+            "Melting_Point: 63.05",
+            "Boiling_Point: 77.36",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 63.05"
+        ]
+    },
+    {
+        "input": "Oxygen",
+        "output": [
+            "Symbol: O",
+            "Atomic_Number: 8",
+            "Atomic_Weight: 15.9994",
+            "Density: 1.429",
+            "Melting_Point: 54.85",
+            "Boiling_Point: 90.25",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 54.8"
+        ]
+    },
+    {
+        "input": "Fluorine",
+        "output": [
+            "Symbol: F",
+            "Atomic_Number: 9",
+            "Atomic_Weight: 18.9984032",
+            "Density: 1.696",
+            "Melting_Point: 53.55",
+            "Boiling_Point: 85.03",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 53.5"
+        ]
+    },
+    {
+        "input": "Neon",
+        "output": [
+            "Symbol: Ne",
+            "Atomic_Number: 10",
+            "Atomic_Weight: 20.1797",
+            "Density: 0.9",
+            "Melting_Point: 24.56",
+            "Boiling_Point: 27.07",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 24.56"
+        ]
+    },
+    {
+        "input": "Sodium",
+        "output": [
+            "Symbol: Na",
+            "Atomic_Number: 11",
+            "Atomic_Weight: 22.98977",
+            "Density: 968",
+            "Melting_Point: 370.87",
+            "Boiling_Point: 1156.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 370.87"
+        ]
+    },
+    {
+        "input": "Magnesium",
+        "output": [
+            "Symbol: Mg",
+            "Atomic_Number: 12",
+            "Atomic_Weight: 24.305",
+            "Density: 1738",
+            "Melting_Point: 923.15",
+            "Boiling_Point: 1363.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 923"
+        ]
+    },
+    {
+        "input": "Aluminum",
+        "output": [
+            "Symbol: Al",
+            "Atomic_Number: 13",
+            "Atomic_Weight: 26.981538",
+            "Density: 2700",
+            "Melting_Point: 933.47",
+            "Boiling_Point: 2792.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 933.47"
+        ]
+    },
+    {
+        "input": "Silicon",
+        "output": [
+            "Symbol: Si",
+            "Atomic_Number: 14",
+            "Atomic_Weight: 28.0855",
+            "Density: 2330",
+            "Melting_Point: 1687.15",
+            "Boiling_Point: 3173.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1687"
+        ]
+    },
+    {
+        "input": "Phosphorus",
+        "output": [
+            "Symbol: P",
+            "Atomic_Number: 15",
+            "Atomic_Weight: 30.973761",
+            "Density: 1823",
+            "Melting_Point: 317.35",
+            "Boiling_Point: 553.65",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 317.3"
+        ]
+    },
+    {
+        "input": "Sulfur",
+        "output": [
+            "Symbol: S",
+            "Atomic_Number: 16",
+            "Atomic_Weight: 32.065",
+            "Density: 1960",
+            "Melting_Point: 388.36",
+            "Boiling_Point: 717.87",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 388.36"
+        ]
+    },
+    {
+        "input": "Chlorine",
+        "output": [
+            "Symbol: Cl",
+            "Atomic_Number: 17",
+            "Atomic_Weight: 35.453",
+            "Density: 3.214",
+            "Melting_Point: 171.65",
+            "Boiling_Point: 239.11",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 171.6"
+        ]
+    },
+    {
+        "input": "Argon",
+        "output": [
+            "Symbol: Ar",
+            "Atomic_Number: 18",
+            "Atomic_Weight: 39.948",
+            "Density: 1.784",
+            "Melting_Point: 83.85",
+            "Boiling_Point: 87.35",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 83.8"
+        ]
+    },
+    {
+        "input": "Potassium",
+        "output": [
+            "Symbol: K",
+            "Atomic_Number: 19",
+            "Atomic_Weight: 39.0983",
+            "Density: 856",
+            "Melting_Point: 336.53",
+            "Boiling_Point: 1032.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 336.53"
+        ]
+    },
+    {
+        "input": "Calcium",
+        "output": [
+            "Symbol: Ca",
+            "Atomic_Number: 20",
+            "Atomic_Weight: 40.078",
+            "Density: 1550",
+            "Melting_Point: 1115.15",
+            "Boiling_Point: 1757.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1115"
+        ]
+    },
+    {
+        "input": "Scandium",
+        "output": [
+            "Symbol: Sc",
+            "Atomic_Number: 21",
+            "Atomic_Weight: 44.95591",
+            "Density: 2985",
+            "Melting_Point: 1814.15",
+            "Boiling_Point: 3103.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1814"
+        ]
+    },
+    {
+        "input": "Titanium",
+        "output": [
+            "Symbol: Ti",
+            "Atomic_Number: 22",
+            "Atomic_Weight: 47.867",
+            "Density: 4507",
+            "Melting_Point: 1941.15",
+            "Boiling_Point: 3560.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1941"
+        ]
+    },
+    {
+        "input": "Vanadium",
+        "output": [
+            "Symbol: V",
+            "Atomic_Number: 23",
+            "Atomic_Weight: 50.9415",
+            "Density: 6110",
+            "Melting_Point: 2183.15",
+            "Boiling_Point: 3680.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2183"
+        ]
+    },
+    {
+        "input": "Chromium",
+        "output": [
+            "Symbol: Cr",
+            "Atomic_Number: 24",
+            "Atomic_Weight: 51.9961",
+            "Density: 7140",
+            "Melting_Point: 2180.15",
+            "Boiling_Point: 2944.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2180"
+        ]
+    },
+    {
+        "input": "Manganese",
+        "output": [
+            "Symbol: Mn",
+            "Atomic_Number: 25",
+            "Atomic_Weight: 54.938049",
+            "Density: 7470",
+            "Melting_Point: 1519.15",
+            "Boiling_Point: 2334.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1519"
+        ]
+    },
+    {
+        "input": "Iron",
+        "output": [
+            "Symbol: Fe",
+            "Atomic_Number: 26",
+            "Atomic_Weight: 55.845",
+            "Density: 7874",
+            "Melting_Point: 1811.15",
+            "Boiling_Point: 3134.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1811"
+        ]
+    },
+    {
+        "input": "Cobalt",
+        "output": [
+            "Symbol: Co",
+            "Atomic_Number: 27",
+            "Atomic_Weight: 58.9332",
+            "Density: 8900",
+            "Melting_Point: 1768.15",
+            "Boiling_Point: 3200.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1768"
+        ]
+    },
+    {
+        "input": "Nickel",
+        "output": [
+            "Symbol: Ni",
+            "Atomic_Number: 28",
+            "Atomic_Weight: 58.6934",
+            "Density: 8908",
+            "Melting_Point: 1728.15",
+            "Boiling_Point: 3186.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1728"
+        ]
+    },
+    {
+        "input": "Copper",
+        "output": [
+            "Symbol: Cu",
+            "Atomic_Number: 29",
+            "Atomic_Weight: 63.546",
+            "Density: 8920",
+            "Melting_Point: 1357.77",
+            "Boiling_Point: 3200.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1357.77"
+        ]
+    },
+    {
+        "input": "Zinc",
+        "output": [
+            "Symbol: Zn",
+            "Atomic_Number: 30",
+            "Atomic_Weight: 65.409",
+            "Density: 7140",
+            "Melting_Point: 692.68",
+            "Boiling_Point: 1180.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 692.68"
+        ]
+    },
+    {
+        "input": "Gallium",
+        "output": [
+            "Symbol: Ga",
+            "Atomic_Number: 31",
+            "Atomic_Weight: 69.723",
+            "Density: 5904",
+            "Melting_Point: 302.91",
+            "Boiling_Point: 2477.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 302.91"
+        ]
+    },
+    {
+        "input": "Germanium",
+        "output": [
+            "Symbol: Ge",
+            "Atomic_Number: 32",
+            "Atomic_Weight: 72.64",
+            "Density: 5323",
+            "Melting_Point: 1211.45",
+            "Boiling_Point: 3093.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1211.4"
+        ]
+    },
+    {
+        "input": "Arsenic",
+        "output": [
+            "Symbol: As",
+            "Atomic_Number: 33",
+            "Atomic_Weight: 74.9216",
+            "Density: 5727",
+            "Melting_Point: 1090.15",
+            "Boiling_Point: 887.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1090"
+        ]
+    },
+    {
+        "input": "Selenium",
+        "output": [
+            "Symbol: Se",
+            "Atomic_Number: 34",
+            "Atomic_Weight: 78.96",
+            "Density: 4819",
+            "Melting_Point: 494.15",
+            "Boiling_Point: 958.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 494"
+        ]
+    },
+    {
+        "input": "Bromine",
+        "output": [
+            "Symbol: Br",
+            "Atomic_Number: 35",
+            "Atomic_Weight: 79.904",
+            "Density: 3120",
+            "Melting_Point: 265.85",
+            "Boiling_Point: 332.15",
+            "Phase: Liquid",
+            "Absolute_Melting_Point: 265.8"
+        ]
+    },
+    {
+        "input": "Krypton",
+        "output": [
+            "Symbol: Kr",
+            "Atomic_Number: 36",
+            "Atomic_Weight: 83.798",
+            "Density: 3.75",
+            "Melting_Point: 115.79",
+            "Boiling_Point: 119.93",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 115.79"
+        ]
+    },
+    {
+        "input": "Rubidium",
+        "output": [
+            "Symbol: Rb",
+            "Atomic_Number: 37",
+            "Atomic_Weight: 85.4678",
+            "Density: 1532",
+            "Melting_Point: 312.46",
+            "Boiling_Point: 961.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 312.46"
+        ]
+    },
+    {
+        "input": "Strontium",
+        "output": [
+            "Symbol: Sr",
+            "Atomic_Number: 38",
+            "Atomic_Weight: 87.62",
+            "Density: 2630",
+            "Melting_Point: 1050.15",
+            "Boiling_Point: 1655.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1050"
+        ]
+    },
+    {
+        "input": "Yttrium",
+        "output": [
+            "Symbol: Y",
+            "Atomic_Number: 39",
+            "Atomic_Weight: 88.90585",
+            "Density: 4472",
+            "Melting_Point: 1799.15",
+            "Boiling_Point: 3618.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1799"
+        ]
+    },
+    {
+        "input": "Zirconium",
+        "output": [
+            "Symbol: Zr",
+            "Atomic_Number: 40",
+            "Atomic_Weight: 91.224",
+            "Density: 6511",
+            "Melting_Point: 2128.15",
+            "Boiling_Point: 4682.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2128"
+        ]
+    },
+    {
+        "input": "Niobium",
+        "output": [
+            "Symbol: Nb",
+            "Atomic_Number: 41",
+            "Atomic_Weight: 92.90638",
+            "Density: 8570",
+            "Melting_Point: 2750.15",
+            "Boiling_Point: 5017.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2750"
+        ]
+    },
+    {
+        "input": "Molybdenum",
+        "output": [
+            "Symbol: Mo",
+            "Atomic_Number: 42",
+            "Atomic_Weight: 95.94",
+            "Density: 10280",
+            "Melting_Point: 2896.15",
+            "Boiling_Point: 4912.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2896"
+        ]
+    },
+    {
+        "input": "Technetium",
+        "output": [
+            "Symbol: Tc",
+            "Atomic_Number: 43",
+            "Atomic_Weight: 98",
+            "Density: 11500",
+            "Melting_Point: 2430.15",
+            "Boiling_Point: 4538.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2430"
+        ]
+    },
+    {
+        "input": "Ruthenium",
+        "output": [
+            "Symbol: Ru",
+            "Atomic_Number: 44",
+            "Atomic_Weight: 101.07",
+            "Density: 12370",
+            "Melting_Point: 2607.15",
+            "Boiling_Point: 4423.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2607"
+        ]
+    },
+    {
+        "input": "Rhodium",
+        "output": [
+            "Symbol: Rh",
+            "Atomic_Number: 45",
+            "Atomic_Weight: 102.9055",
+            "Density: 12450",
+            "Melting_Point: 2237.15",
+            "Boiling_Point: 3968.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2237"
+        ]
+    },
+    {
+        "input": "Palladium",
+        "output": [
+            "Symbol: Pd",
+            "Atomic_Number: 46",
+            "Atomic_Weight: 106.42",
+            "Density: 12023",
+            "Melting_Point: 1828.05",
+            "Boiling_Point: 3236.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1828.05"
+        ]
+    },
+    {
+        "input": "Silver",
+        "output": [
+            "Symbol: Ag",
+            "Atomic_Number: 47",
+            "Atomic_Weight: 107.8682",
+            "Density: 10490",
+            "Melting_Point: 1234.93",
+            "Boiling_Point: 2435.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1234.93"
+        ]
+    },
+    {
+        "input": "Cadmium",
+        "output": [
+            "Symbol: Cd",
+            "Atomic_Number: 48",
+            "Atomic_Weight: 112.411",
+            "Density: 8650",
+            "Melting_Point: 594.22",
+            "Boiling_Point: 1040.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 594.22"
+        ]
+    },
+    {
+        "input": "Indium",
+        "output": [
+            "Symbol: In",
+            "Atomic_Number: 49",
+            "Atomic_Weight: 114.818",
+            "Density: 7310",
+            "Melting_Point: 429.75",
+            "Boiling_Point: 2345.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 429.75"
+        ]
+    },
+    {
+        "input": "Tin",
+        "output": [
+            "Symbol: Sn",
+            "Atomic_Number: 50",
+            "Atomic_Weight: 118.71",
+            "Density: 7310",
+            "Melting_Point: 505.08",
+            "Boiling_Point: 2875.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 505.08"
+        ]
+    },
+    {
+        "input": "Antimony",
+        "output": [
+            "Symbol: Sb",
+            "Atomic_Number: 51",
+            "Atomic_Weight: 121.76",
+            "Density: 6697",
+            "Melting_Point: 903.78",
+            "Boiling_Point: 1860.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 903.78"
+        ]
+    },
+    {
+        "input": "Tellurium",
+        "output": [
+            "Symbol: Te",
+            "Atomic_Number: 52",
+            "Atomic_Weight: 127.6",
+            "Density: 6240",
+            "Melting_Point: 722.66",
+            "Boiling_Point: 1261.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 722.66"
+        ]
+    },
+    {
+        "input": "Iodine",
+        "output": [
+            "Symbol: I",
+            "Atomic_Number: 53",
+            "Atomic_Weight: 126.90447",
+            "Density: 4940",
+            "Melting_Point: 386.85",
+            "Boiling_Point: 457.45",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 386.85"
+        ]
+    },
+    {
+        "input": "Xenon",
+        "output": [
+            "Symbol: Xe",
+            "Atomic_Number: 54",
+            "Atomic_Weight: 131.293",
+            "Density: 5.9",
+            "Melting_Point: 161.35",
+            "Boiling_Point: 165.15",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 161.3"
+        ]
+    },
+    {
+        "input": "Cesium",
+        "output": [
+            "Symbol: Cs",
+            "Atomic_Number: 55",
+            "Atomic_Weight: 132.90545",
+            "Density: 1879",
+            "Melting_Point: 301.59",
+            "Boiling_Point: 944.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 301.59"
+        ]
+    },
+    {
+        "input": "Barium",
+        "output": [
+            "Symbol: Ba",
+            "Atomic_Number: 56",
+            "Atomic_Weight: 137.327",
+            "Density: 3510",
+            "Melting_Point: 1000.15",
+            "Boiling_Point: 2143.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1000"
+        ]
+    },
+    {
+        "input": "Lanthanum",
+        "output": [
+            "Symbol: La",
+            "Atomic_Number: 57",
+            "Atomic_Weight: 138.9055",
+            "Density: 6146",
+            "Melting_Point: 1193.15",
+            "Boiling_Point: 3737.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1193"
+        ]
+    },
+    {
+        "input": "Cerium",
+        "output": [
+            "Symbol: Ce",
+            "Atomic_Number: 58",
+            "Atomic_Weight: 140.116",
+            "Density: 6689",
+            "Melting_Point: 1071.15",
+            "Boiling_Point: 3633.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1071"
+        ]
+    },
+    {
+        "input": "Praseodymium",
+        "output": [
+            "Symbol: Pr",
+            "Atomic_Number: 59",
+            "Atomic_Weight: 140.90765",
+            "Density: 6640",
+            "Melting_Point: 1204.15",
+            "Boiling_Point: 3563.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1204"
+        ]
+    },
+    {
+        "input": "Neodymium",
+        "output": [
+            "Symbol: Nd",
+            "Atomic_Number: 60",
+            "Atomic_Weight: 144.24",
+            "Density: 7010",
+            "Melting_Point: 1294.15",
+            "Boiling_Point: 3373.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1294"
+        ]
+    },
+    {
+        "input": "Promethium",
+        "output": [
+            "Symbol: Pm",
+            "Atomic_Number: 61",
+            "Atomic_Weight: 145",
+            "Density: 7264",
+            "Melting_Point: 1373.15",
+            "Boiling_Point: 3273.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1373"
+        ]
+    },
+    {
+        "input": "Samarium",
+        "output": [
+            "Symbol: Sm",
+            "Atomic_Number: 62",
+            "Atomic_Weight: 150.36",
+            "Density: 7353",
+            "Melting_Point: 1345.15",
+            "Boiling_Point: 2076.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1345"
+        ]
+    },
+    {
+        "input": "Europium",
+        "output": [
+            "Symbol: Eu",
+            "Atomic_Number: 63",
+            "Atomic_Weight: 151.964",
+            "Density: 5244",
+            "Melting_Point: 1095.15",
+            "Boiling_Point: 1800.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1095"
+        ]
+    },
+    {
+        "input": "Gadolinium",
+        "output": [
+            "Symbol: Gd",
+            "Atomic_Number: 64",
+            "Atomic_Weight: 157.25",
+            "Density: 7901",
+            "Melting_Point: 1586.15",
+            "Boiling_Point: 3523.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1586"
+        ]
+    },
+    {
+        "input": "Terbium",
+        "output": [
+            "Symbol: Tb",
+            "Atomic_Number: 65",
+            "Atomic_Weight: 158.92534",
+            "Density: 8219",
+            "Melting_Point: 1629.15",
+            "Boiling_Point: 3503.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1629"
+        ]
+    },
+    {
+        "input": "Dysprosium",
+        "output": [
+            "Symbol: Dy",
+            "Atomic_Number: 66",
+            "Atomic_Weight: 162.5",
+            "Density: 8551",
+            "Melting_Point: 1685.15",
+            "Boiling_Point: 2840.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1685"
+        ]
+    },
+    {
+        "input": "Holmium",
+        "output": [
+            "Symbol: Ho",
+            "Atomic_Number: 67",
+            "Atomic_Weight: 164.93032",
+            "Density: 8795",
+            "Melting_Point: 1747.15",
+            "Boiling_Point: 2973.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1747"
+        ]
+    },
+    {
+        "input": "Erbium",
+        "output": [
+            "Symbol: Er",
+            "Atomic_Number: 68",
+            "Atomic_Weight: 167.259",
+            "Density: 9066",
+            "Melting_Point: 1770.15",
+            "Boiling_Point: 3141.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1770"
+        ]
+    },
+    {
+        "input": "Thulium",
+        "output": [
+            "Symbol: Tm",
+            "Atomic_Number: 69",
+            "Atomic_Weight: 168.93421",
+            "Density: 9321",
+            "Melting_Point: 1818.15",
+            "Boiling_Point: 2223.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1818"
+        ]
+    },
+    {
+        "input": "Ytterbium",
+        "output": [
+            "Symbol: Yb",
+            "Atomic_Number: 70",
+            "Atomic_Weight: 173.04",
+            "Density: 6570",
+            "Melting_Point: 1092.15",
+            "Boiling_Point: 1469.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1092"
+        ]
+    },
+    {
+        "input": "Lutetium",
+        "output": [
+            "Symbol: Lu",
+            "Atomic_Number: 71",
+            "Atomic_Weight: 174.967",
+            "Density: 9841",
+            "Melting_Point: 1936.15",
+            "Boiling_Point: 3675.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1936"
+        ]
+    },
+    {
+        "input": "Hafnium",
+        "output": [
+            "Symbol: Hf",
+            "Atomic_Number: 72",
+            "Atomic_Weight: 178.49",
+            "Density: 13310",
+            "Melting_Point: 2506.15",
+            "Boiling_Point: 4876.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2506"
+        ]
+    },
+    {
+        "input": "Tantalum",
+        "output": [
+            "Symbol: Ta",
+            "Atomic_Number: 73",
+            "Atomic_Weight: 180.9479",
+            "Density: 16650",
+            "Melting_Point: 3290.15",
+            "Boiling_Point: 5731.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 3290"
+        ]
+    },
+    {
+        "input": "Tungsten",
+        "output": [
+            "Symbol: W",
+            "Atomic_Number: 74",
+            "Atomic_Weight: 183.84",
+            "Density: 19250",
+            "Melting_Point: 3695.15",
+            "Boiling_Point: 5828.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 3695"
+        ]
+    },
+    {
+        "input": "Rhenium",
+        "output": [
+            "Symbol: Re",
+            "Atomic_Number: 75",
+            "Atomic_Weight: 186.207",
+            "Density: 21020",
+            "Melting_Point: 3459.15",
+            "Boiling_Point: 5869.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 3459"
+        ]
+    },
+    {
+        "input": "Osmium",
+        "output": [
+            "Symbol: Os",
+            "Atomic_Number: 76",
+            "Atomic_Weight: 190.23",
+            "Density: 22610",
+            "Melting_Point: 3306.15",
+            "Boiling_Point: 5285.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 3306"
+        ]
+    },
+    {
+        "input": "Iridium",
+        "output": [
+            "Symbol: Ir",
+            "Atomic_Number: 77",
+            "Atomic_Weight: 192.217",
+            "Density: 22650",
+            "Melting_Point: 2739.15",
+            "Boiling_Point: 4701.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2739"
+        ]
+    },
+    {
+        "input": "Platinum",
+        "output": [
+            "Symbol: Pt",
+            "Atomic_Number: 78",
+            "Atomic_Weight: 195.078",
+            "Density: 21090",
+            "Melting_Point: 2041.45",
+            "Boiling_Point: 4098.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2041.4"
+        ]
+    },
+    {
+        "input": "Gold",
+        "output": [
+            "Symbol: Au",
+            "Atomic_Number: 79",
+            "Atomic_Weight: 196.96655",
+            "Density: 19300",
+            "Melting_Point: 1337.33",
+            "Boiling_Point: 3129.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1337.33"
+        ]
+    },
+    {
+        "input": "Mercury",
+        "output": [
+            "Symbol: Hg",
+            "Atomic_Number: 80",
+            "Atomic_Weight: 200.59",
+            "Density: 13534",
+            "Melting_Point: 234.32",
+            "Boiling_Point: 629.88",
+            "Phase: Liquid",
+            "Absolute_Melting_Point: 234.32"
+        ]
+    },
+    {
+        "input": "Thallium",
+        "output": [
+            "Symbol: Tl",
+            "Atomic_Number: 81",
+            "Atomic_Weight: 204.3833",
+            "Density: 11850",
+            "Melting_Point: 577.15",
+            "Boiling_Point: 1746.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 577"
+        ]
+    },
+    {
+        "input": "Lead",
+        "output": [
+            "Symbol: Pb",
+            "Atomic_Number: 82",
+            "Atomic_Weight: 207.2",
+            "Density: 11340",
+            "Melting_Point: 600.61",
+            "Boiling_Point: 2022.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 600.61"
+        ]
+    },
+    {
+        "input": "Bismuth",
+        "output": [
+            "Symbol: Bi",
+            "Atomic_Number: 83",
+            "Atomic_Weight: 208.98038",
+            "Density: 9780",
+            "Melting_Point: 544.45",
+            "Boiling_Point: 1837.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 544.4"
+        ]
+    },
+    {
+        "input": "Polonium",
+        "output": [
+            "Symbol: Po",
+            "Atomic_Number: 84",
+            "Atomic_Weight: 209",
+            "Density: 9196",
+            "Melting_Point: 527.15",
+            "Boiling_Point: 1235.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 527"
+        ]
+    },
+    {
+        "input": "Astatine",
+        "output": [
+            "Symbol: At",
+            "Atomic_Number: 85",
+            "Atomic_Weight: 210",
+            "Density: ",
+            "Melting_Point: 575.15",
+            "Boiling_Point: ",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 575"
+        ]
+    },
+    {
+        "input": "Radon",
+        "output": [
+            "Symbol: Rn",
+            "Atomic_Number: 86",
+            "Atomic_Weight: 222",
+            "Density: 9.73",
+            "Melting_Point: 202.15",
+            "Boiling_Point: 211.45",
+            "Phase: Gas",
+            "Absolute_Melting_Point: 202"
+        ]
+    },
+    {
+        "input": "Francium",
+        "output": [
+            "Symbol: Fr",
+            "Atomic_Number: 87",
+            "Atomic_Weight: 223",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: Solid",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Radium",
+        "output": [
+            "Symbol: Ra",
+            "Atomic_Number: 88",
+            "Atomic_Weight: 226",
+            "Density: 5000",
+            "Melting_Point: 973.15",
+            "Boiling_Point: 2010.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 973"
+        ]
+    },
+    {
+        "input": "Actinium",
+        "output": [
+            "Symbol: Ac",
+            "Atomic_Number: 89",
+            "Atomic_Weight: 227",
+            "Density: 10070",
+            "Melting_Point: 1323.15",
+            "Boiling_Point: 3473.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1323"
+        ]
+    },
+    {
+        "input": "Thorium",
+        "output": [
+            "Symbol: Th",
+            "Atomic_Number: 90",
+            "Atomic_Weight: 232.0381",
+            "Density: 11724",
+            "Melting_Point: 2023.15",
+            "Boiling_Point: 5093.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 2023"
+        ]
+    },
+    {
+        "input": "Protactinium",
+        "output": [
+            "Symbol: Pa",
+            "Atomic_Number: 91",
+            "Atomic_Weight: 231.03588",
+            "Density: 15370",
+            "Melting_Point: 1845.15",
+            "Boiling_Point: 4273.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1845"
+        ]
+    },
+    {
+        "input": "Uranium",
+        "output": [
+            "Symbol: U",
+            "Atomic_Number: 92",
+            "Atomic_Weight: 238.02891",
+            "Density: 19050",
+            "Melting_Point: 1408.15",
+            "Boiling_Point: 4200.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1408"
+        ]
+    },
+    {
+        "input": "Neptunium",
+        "output": [
+            "Symbol: Np",
+            "Atomic_Number: 93",
+            "Atomic_Weight: 237",
+            "Density: 20450",
+            "Melting_Point: 917.15",
+            "Boiling_Point: 4273.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 917"
+        ]
+    },
+    {
+        "input": "Plutonium",
+        "output": [
+            "Symbol: Pu",
+            "Atomic_Number: 94",
+            "Atomic_Weight: 244",
+            "Density: 19816",
+            "Melting_Point: 913.15",
+            "Boiling_Point: 3503.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 913"
+        ]
+    },
+    {
+        "input": "Americium",
+        "output": [
+            "Symbol: Am",
+            "Atomic_Number: 95",
+            "Atomic_Weight: 243",
+            "Density: ",
+            "Melting_Point: 1449.15",
+            "Boiling_Point: 2284.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1449"
+        ]
+    },
+    {
+        "input": "Curium",
+        "output": [
+            "Symbol: Cm",
+            "Atomic_Number: 96",
+            "Atomic_Weight: 247",
+            "Density: 13510",
+            "Melting_Point: 1618.15",
+            "Boiling_Point: 3383.15",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1618"
+        ]
+    },
+    {
+        "input": "Berkelium",
+        "output": [
+            "Symbol: Bk",
+            "Atomic_Number: 97",
+            "Atomic_Weight: 247",
+            "Density: 14780",
+            "Melting_Point: 1323.15",
+            "Boiling_Point: ",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1323"
+        ]
+    },
+    {
+        "input": "Californium",
+        "output": [
+            "Symbol: Cf",
+            "Atomic_Number: 98",
+            "Atomic_Weight: 251",
+            "Density: 15100",
+            "Melting_Point: 1173.15",
+            "Boiling_Point: ",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1173"
+        ]
+    },
+    {
+        "input": "Einsteinium",
+        "output": [
+            "Symbol: Es",
+            "Atomic_Number: 99",
+            "Atomic_Weight: 252",
+            "Density: ",
+            "Melting_Point: 1133.15",
+            "Boiling_Point: ",
+            "Phase: Solid",
+            "Absolute_Melting_Point: 1133"
+        ]
+    },
+    {
+        "input": "Fermium",
+        "output": [
+            "Symbol: Fm",
+            "Atomic_Number: 100",
+            "Atomic_Weight: 257",
+            "Density: ",
+            "Melting_Point: 1800.15",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: 1800"
+        ]
+    },
+    {
+        "input": "Mendelevium",
+        "output": [
+            "Symbol: Md",
+            "Atomic_Number: 101",
+            "Atomic_Weight: 258",
+            "Density: ",
+            "Melting_Point: 1100.15",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: 1100"
+        ]
+    },
+    {
+        "input": "Nobelium",
+        "output": [
+            "Symbol: No",
+            "Atomic_Number: 102",
+            "Atomic_Weight: 259",
+            "Density: ",
+            "Melting_Point: 1100.15",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: 1100"
+        ]
+    },
+    {
+        "input": "Lawrencium",
+        "output": [
+            "Symbol: Lr",
+            "Atomic_Number: 103",
+            "Atomic_Weight: 262",
+            "Density: ",
+            "Melting_Point: 1900.15",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: 1900"
+        ]
+    },
+    {
+        "input": "Rutherfordium",
+        "output": [
+            "Symbol: Rf",
+            "Atomic_Number: 104",
+            "Atomic_Weight: 261",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Dubnium",
+        "output": [
+            "Symbol: Db",
+            "Atomic_Number: 105",
+            "Atomic_Weight: 262",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Seaborgium",
+        "output": [
+            "Symbol: Sg",
+            "Atomic_Number: 106",
+            "Atomic_Weight: 266",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Bohrium",
+        "output": [
+            "Symbol: Bh",
+            "Atomic_Number: 107",
+            "Atomic_Weight: 264",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Hassium",
+        "output": [
+            "Symbol: Hs",
+            "Atomic_Number: 108",
+            "Atomic_Weight: 277",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Meitnerium",
+        "output": [
+            "Symbol: Mt",
+            "Atomic_Number: 109",
+            "Atomic_Weight: 268",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Darmstadtium",
+        "output": [
+            "Symbol: Ds",
+            "Atomic_Number: 110",
+            "Atomic_Weight: 281",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Roentgenium",
+        "output": [
+            "Symbol: Rg",
+            "Atomic_Number: 111",
+            "Atomic_Weight: 272",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Ununbium",
+        "output": [
+            "Symbol: Uub",
+            "Atomic_Number: 112",
+            "Atomic_Weight: 285",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Ununtrium",
+        "output": [
+            "Symbol: Uut",
+            "Atomic_Number: 113",
+            "Atomic_Weight: 284",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Ununquadium",
+        "output": [
+            "Symbol: Uuq",
+            "Atomic_Number: 114",
+            "Atomic_Weight: 289",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Ununpentium",
+        "output": [
+            "Symbol: Uup",
+            "Atomic_Number: 115",
+            "Atomic_Weight: 288",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Ununhexium",
+        "output": [
+            "Symbol: Uuh",
+            "Atomic_Number: 116",
+            "Atomic_Weight: 292",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Ununseptium",
+        "output": [
+            "Symbol: Uus",
+            "Atomic_Number: 117",
+            "Atomic_Weight: ",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    },
+    {
+        "input": "Ununoctium",
+        "output": [
+            "Symbol: Uuo",
+            "Atomic_Number: 118",
+            "Atomic_Weight: 294",
+            "Density: ",
+            "Melting_Point: ",
+            "Boiling_Point: ",
+            "Phase: ",
+            "Absolute_Melting_Point: "
+        ]
+    }
+]
