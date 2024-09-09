@@ -3,3 +3,4 @@ streamlit==1.25.0
 torch==1.13.0
 transformers==4.41.2
 uvicorn==0.25.0
+fastapi=0.110.3
