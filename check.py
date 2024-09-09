@@ -4,6 +4,7 @@ from pydantic import BaseModel
 from transformers import AutoTokenizer, AutoModelForCausalLM
 import torch
 import json
+import uvicorn
 
 app = FastAPI()
 
@@ -151,3 +152,5 @@ async def generate_properties(input: ElementInput):
 async def root():
     return {"message": "API is up and running"}
 
+if __name__ == "__main__":
+    uvicorn.run(app, host="127.0.0.1", port=8000)
